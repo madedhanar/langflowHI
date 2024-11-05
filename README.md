@@ -69,3 +69,15 @@ We welcome contributions from developers of all levels. If you'd like to contrib
 ## ❤️ Contributors
 
 [![langflow contributors](https://contrib.rocks/image?repo=langflow-ai/langflow)](https://github.com/langflow-ai/langflow/graphs/contributors)
+
+
+# Additional notes
+Need to install rust to install langflow
+
+One-time installation
+python3.10 -m venv langflow-env
+
+Once installed
+langflow-env\Scripts\activate
+
+python -m langflow run
